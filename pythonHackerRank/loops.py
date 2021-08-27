@@ -3,5 +3,5 @@ if __name__ == '__main__':
 
 # Estabelecer um Range
 
-for x in range(n):
-    print(x ** 2)
+    for x in range(n):
+        print(x ** 2)
